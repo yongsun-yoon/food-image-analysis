@@ -1,0 +1,6 @@
+__pycache__
+wandb
+runs
+food_data
+notebook
+*.pt
